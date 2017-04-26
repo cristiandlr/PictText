@@ -1,0 +1,10 @@
+c:\users\cd\documents\visual studio 2015\Projects\PictText\PictText\bin\Debug\PictText.exe.config
+c:\users\cd\documents\visual studio 2015\Projects\PictText\PictText\bin\Debug\PictText.exe
+c:\users\cd\documents\visual studio 2015\Projects\PictText\PictText\bin\Debug\PictText.pdb
+c:\users\cd\documents\visual studio 2015\Projects\PictText\PictText\obj\Debug\PictText.csprojResolveAssemblyReference.cache
+c:\users\cd\documents\visual studio 2015\Projects\PictText\PictText\obj\Debug\PictText.Properties.Resources.resources
+c:\users\cd\documents\visual studio 2015\Projects\PictText\PictText\obj\Debug\PictText.csproj.GenerateResource.Cache
+c:\users\cd\documents\visual studio 2015\Projects\PictText\PictText\obj\Debug\PictText.exe
+c:\users\cd\documents\visual studio 2015\Projects\PictText\PictText\obj\Debug\PictText.pdb
+C:\Users\cd\Documents\Visual Studio 2015\Projects\PictText\PictText\obj\Debug\PictText.VentanaPrincipal.resources
+C:\Users\cd\Documents\Visual Studio 2015\Projects\PictText\PictText\obj\Debug\PictText.Visor.resources
